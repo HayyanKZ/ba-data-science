@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Forage-provided files
+British_Airways_Summer_Schedule_Dataset*.xlsx
+Lounge_Eligibility_Lookup_Template*.xlsx
